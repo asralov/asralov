@@ -2,6 +2,7 @@
 
 <h1 style="text-align: center;">
   Hello, I am Abror - Student Software Developer
+  <img src="https://raw.githubusercontent.com/umenzi/umenzi/main/wave.gif" width="30px">
 </h1>
 
 [![Website](#)](asralov.dev)
@@ -36,19 +37,3 @@ My INFO
 </p>
 
 <a href="https://github.com/asralov?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-
-
-<!--
-**umenzi/umenzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

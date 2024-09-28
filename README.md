@@ -9,11 +9,13 @@
 [![Gmail](#)](mailto:asralov@arizona.edu?subject=Hello)
 
 <br>
-My INFO
+I’m a passionate software developer with a love for solving problems and writing clean, efficient code. With expertise in multiple programming languages such as Java, JavaScript, Python, C, and C#. I enjoy working with frameworks like React.js, Node.js, and MongoDB to create and maintain MERN stack based web applications. My experience spans web development, game design, and working across diverse technologies including Unity and AWS.
 
+Always eager to learn and grow, I’m continuously honing my skills and exploring innovative ways to build and optimize applications. Whether working on backend systems or designing user-friendly interfaces, coding is where I find my flow. I’m always open to new tech learning opportunities and excited to take on fresh challenges.
+
+<br>
 
 ## GitHub Stats
-
 <!-- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/?username=umenzi&langs_count=5&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)]()
  -->
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=asralov&langs_count=5&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)]()

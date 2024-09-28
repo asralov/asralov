@@ -38,14 +38,10 @@
 
 ---
 <br>
-
 ## GitHub Stats
-<!-- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/?username=umenzi&langs_count=5&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)]()
- -->
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=asralov&langs_count=5&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)]()
 
 <h2 style="text-align: center;">👨‍💻 Repositories 👨‍💻</h2>
-
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
   <a href="https://github.com/asralov/csc337-final-project">
@@ -56,8 +52,8 @@
     <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=asralov&repo=myPage&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&v=1" align="center" alt="Personal Website"/>
   </a>
 
-  <a href="https://github.com/umenzi/diversity-rlhf">
-    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=umenzi&repo=diversity-rlhf&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="The human factor: Addressing Diversity in RLHF" />
+  <a href="https://github.com/asralov/wordSearchGame">
+    <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=asralov&repo=wordSearchGame&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Word Search Game in Python" />
   </a>
 </p>
 

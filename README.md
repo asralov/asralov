@@ -22,8 +22,8 @@ My INFO
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-  <a href="https://github.com/umenzi/bio-inspired_algorithms">
-    <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=umenzi&repo=bio-inspired_algorithms&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Bio-Inspired algorithms"/>
+  <a href="https://github.com/asralov/csc337-final-project">
+    <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=asralov&repo=csc337-final-project&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Lose The Bias"/>
   </a>
   <a href="https://github.com/umenzi/jpaefra">
     <img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=umenzi&repo=jpaefra&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Personal Website"/>

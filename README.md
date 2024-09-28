@@ -9,9 +9,27 @@
 [![Gmail](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:asralov@arizona.edu?subject=Hello)
 
 <br>
-I’m a passionate software developer with a love for solving problems and writing clean, efficient code. With expertise in multiple programming languages such as Java, JavaScript, Python, C, and C#. I enjoy working with frameworks like React.js, Node.js, and MongoDB to create and maintain MERN stack based web applications. My experience spans web development, game design, and working across diverse technologies including Unity and AWS.
+# 👨‍💻 About Me
 
-Always eager to learn and grow, I’m continuously honing my skills and exploring innovative ways to build and optimize applications. Whether working on backend systems or designing user-friendly interfaces, coding is where I find my flow. I’m always open to new tech learning opportunities and excited to take on fresh challenges.
+**I’m a passionate software developer** with a love for solving problems and writing clean, efficient code. With expertise in multiple programming languages such as **Java**, **JavaScript**, **Python**, **C**, and **C#**, I enjoy working with frameworks like **React.js**, **Node.js**, and **MongoDB** to create and maintain **MERN stack-based web applications**.
+
+---
+
+### 📚 My Expertise Includes:
+- **Languages**: Java, JavaScript, Python, C, C#
+- **Frameworks & Libraries**: React.js, Node.js, MongoDB
+- **Technologies**: Unity, AWS
+
+---
+
+🌱 **Always eager to learn and grow**, I’m continuously honing my skills and exploring innovative ways to build and optimize applications. Whether working on **backend systems** or designing **user-friendly interfaces**, coding is where I find my flow.
+
+🔗 **I’m open to new tech learning opportunities** and excited to take on fresh challenges!
+
+---
+
+> “The best way to predict the future is to create it.” – Peter Drucker
+
 
 <br>
 

@@ -9,8 +9,6 @@
 [![Gmail](#)](mailto:asralov@arizona.edu?subject=Hello)
 
 <br>
-
-# Hi there <img src="https://raw.githubusercontent.com/umenzi/umenzi/main/wave.gif" width="30px">
 My INFO
 
 

@@ -25,8 +25,12 @@ My INFO
   <a href="https://github.com/asralov/csc337-final-project">
     <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=asralov&repo=csc337-final-project&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Lose The Bias"/>
   </a>
-  <a href="https://github.com/asralov/e">
+  <!--
+  <a href="https://github.com/asralov/">
     <img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=asralov&repo=myPage&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Personal Website"/>
+  </a>-->
+    <a href="https://github.com/asralov/myPage">
+    <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=asralov&repo=myPage&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Me Page"/>
   </a>
   <a href="https://github.com/umenzi/diversity-rlhf">
     <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=umenzi&repo=diversity-rlhf&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="The human factor: Addressing Diversity in RLHF" />

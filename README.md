@@ -1,9 +1,8 @@
 <img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fasralov&countColor=%23263759&style=default" alt="visitor_badge">
 
-<h1 style="text-align: center;">
-  Hello, I am Abror - Student Software Developer
-  <img src="https://raw.githubusercontent.com/umenzi/umenzi/main/wave.gif" width="30px">
-</h1>
+<h2 style="text-align: center;">
+  Hello, I am Abror - Student Software Developer <img src="https://raw.githubusercontent.com/umenzi/umenzi/main/wave.gif" width="30px">
+</h2>
 
 [![Website](#)](https://www.asralov.dev)
 [![LinkedIn](#)](https://www.linkedin.com/in/abrorjon-asralov/)

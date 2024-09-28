@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/umenzi/umenzi/main/wave.gif" width="30px">
 </h1>
 
-[![Website](#)](asralov.dev)
+[![Website](#)](https://www.asralov.dev)
 [![LinkedIn](#)](https://www.linkedin.com/in/abrorjon-asralov/)
 [![Gmail](#)](mailto:asralov@arizona.edu?subject=Hello)
 

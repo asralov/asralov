@@ -35,7 +35,7 @@
 ###
 
 <div align="left">
-    <a href="https://www.instagram.com/abrorjon_asralov?igsh=MTA4eHF6MzF5cGFrbQ==">
+    <a href="https://www.instagram.com/itsabrikos?igsh=MTA4eHF6MzF5cGFrbQ==">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
   <a href="mailto:asralov@arizona.edu">

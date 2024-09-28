@@ -27,7 +27,7 @@ My INFO
   </a>
 
   <a href="https://github.com/asralov/myPage">
-    <img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=asralov&repo=myPage&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&v=1" align="center" alt="Personal Website"/>
+    <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=asralov&repo=myPage&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&v=1" align="center" alt="Personal Website"/>
   </a>
 
   <a href="https://github.com/umenzi/diversity-rlhf">

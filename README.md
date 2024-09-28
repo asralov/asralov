@@ -16,10 +16,24 @@
 ---
 
 ### 📚 My Expertise Includes:
-- **Languages**: Java, JavaScript, Python, C, C#
-- **Frameworks & Libraries**: React.js, Node.js, MongoDB
-- **Technologies**: Unity, AWS
-
+- Python
+  - NumPy
+  - Pandas
+- Java
+  - Desktop development
+- C
+- C#
+  - Unity
+  - Game Development
+- JavaScript
+  - React.js
+  - Express.js
+  - Node.js
+- Docker
+- AWS
+- Git
+  - GitHub
+- MognoDB
 ---
 
 🌱 **Always eager to learn and grow**, I’m continuously honing my skills and exploring innovative ways to build and optimize applications. Whether working on **backend systems** or designing **user-friendly interfaces**, coding is where I find my flow.

@@ -54,7 +54,7 @@
   </a>
 
   <a href="https://github.com/asralov/wordSearchGame">
-    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=asralov&repo=wordSearchGame&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Word Search Game in Python" />
+    <img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=asralov&repo=wordSearchGame&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Word Search Game in Python" />
   </a>
 </p>
 

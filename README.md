@@ -8,7 +8,7 @@
 [![Gmail](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:asralov@arizona.edu?subject=Hello)
 <br>
 # 👨‍💻 About Me
-<p>I’m a passionate software developer** with a love for solving problems and writing clean, efficient code. With expertise in multiple programming languages such as **Java**, **JavaScript**, **Python**, **C**, and **C#**, I enjoy working with frameworks like **React.js**, **Node.js**, and **MongoDB** to create and maintain **MERN stack-based web applications</p>.
+**I’m a passionate software developer** with a love for solving problems and writing clean, efficient code. With expertise in multiple programming languages such as **Java**, **JavaScript**, **Python**, **C**, and **C#**, I enjoy working with frameworks like **React.js**, **Node.js**, and **MongoDB** to create and maintain **MERN stack-based web applications**.
 ---
 ### 📚 My Expertise Includes:
 - Python

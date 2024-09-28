@@ -4,7 +4,7 @@
   Hello, I am Abror - Student Software Developer <img src="https://raw.githubusercontent.com/umenzi/umenzi/main/wave.gif" width="30px">
 </h2>
 
-[![Website](https://img.shields.io/badge/Website-YourSite-blue?style=for-the-badge&logo=google-chrome)](https://www.asralov.dev)
+[![Website](https://img.shields.io/badge/MY%20PAGE-VISIT-blue?style=for-the-badge&logo=google-chrome)](https://www.asralov.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abrorjon-asralov/)
 [![Gmail](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:asralov@arizona.edu?subject=Hello)
 

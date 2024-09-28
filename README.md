@@ -46,6 +46,9 @@
   <img width="55%" height="auto" src="https://github-readme-stats.vercel.app/api?username=asralov&show_icons=true&count_private=true&hide_border=true&title_color=39FF14&text_color=c9d1d9&bg_color=0d1117" alt="Abror Asralov's github stats" />
     <img width="44%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asralov&layout=compact&hide_border=true&title_color=39FF14&text_color=ffffff&bg_color=0d1117" />
 </div>
+<div align="center"><img height="auto" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=asralov&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=ffffff" alt="Abror Asralov" /></div>
+
+
 
 <h2 style="text-align: center;">👨‍💻 Repositories 👨‍💻</h2>
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->

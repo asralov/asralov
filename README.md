@@ -1,5 +1,4 @@
 <img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fasralov&countColor=%23263759&style=default" alt="visitor_badge">
-
 <h2 style="text-align: center;">
   Hello, I am Abror - Student Software Developer <img src="https://raw.githubusercontent.com/umenzi/umenzi/main/wave.gif" width="30px">
 </h2>
@@ -7,14 +6,10 @@
 [![Website](https://img.shields.io/badge/MY%20PAGE-VISIT-blue?style=for-the-badge&logo=google-chrome)](https://www.asralov.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abrorjon-asralov/)
 [![Gmail](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:asralov@arizona.edu?subject=Hello)
-
 <br>
 # 👨‍💻 About Me
-
 **I’m a passionate software developer** with a love for solving problems and writing clean, efficient code. With expertise in multiple programming languages such as **Java**, **JavaScript**, **Python**, **C**, and **C#**, I enjoy working with frameworks like **React.js**, **Node.js**, and **MongoDB** to create and maintain **MERN stack-based web applications**.
-
 ---
-
 ### 📚 My Expertise Includes:
 - Python
   - NumPy
@@ -35,16 +30,10 @@
   - GitHub
 - MognoDB
 ---
-
 🌱 **Always eager to learn and grow**, I’m continuously honing my skills and exploring innovative ways to build and optimize applications. Whether working on **backend systems** or designing **user-friendly interfaces**, coding is where I find my flow.
 
 🔗 **I’m open to new tech learning opportunities** and excited to take on fresh challenges!
-
 ---
-
-> “The best way to predict the future is to create it.” – Peter Drucker
-
-
 <br>
 
 ## GitHub Stats
